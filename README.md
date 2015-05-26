@@ -1,2 +1,2 @@
 # description-org.miotope
-Project planning
+miotope goals and project planning
